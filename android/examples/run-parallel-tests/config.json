@@ -1,0 +1,20 @@
+{
+    "capabilities": {
+      "browserstack.user": "vinayakmirani_JVHfyU",
+      "browserstack.key": "Fs83iRhMWsncDcjHmtox",
+      "project": "First Behave Android Project",
+      "build": "Behave Android Parallel",
+      "name": "parallel_test",
+      "browserstack.debug": true,
+      "app": "bs://f87fdad6eb487cb19ee05aa7add873b35bb559de"
+    },
+
+    "environments": [{
+      "device": "Google Pixel 3",
+      "os_version": "9.0"
+    },
+    {
+      "device": "Samsung Galaxy S10e",
+      "os_version": "9.0"
+    }]
+}
